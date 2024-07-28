@@ -1,6 +1,4 @@
-package TicTacToe.Model;
-
-import java.util.List;
+package TicTacToe.model;
 
 public class Board {
     int n;

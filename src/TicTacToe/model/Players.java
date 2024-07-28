@@ -1,4 +1,4 @@
-package TicTacToe.Model;
+package TicTacToe.model;
 
 public class Players {
     String name;

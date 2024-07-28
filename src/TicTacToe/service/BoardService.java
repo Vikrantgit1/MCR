@@ -1,6 +1,6 @@
-package TicTacToe.Service;
+package TicTacToe.service;
 
-import TicTacToe.Model.Board;
+import TicTacToe.model.Board;
 
 public class BoardService {
 

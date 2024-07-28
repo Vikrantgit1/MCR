@@ -1,7 +1,7 @@
 package TicTacToe;
 
-import TicTacToe.Model.Players;
-import TicTacToe.Service.PlayTTT;
+import TicTacToe.model.Players;
+import TicTacToe.service.PlayTTT;
 
 import java.util.ArrayList;
 import java.util.List;

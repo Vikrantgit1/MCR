@@ -1,7 +1,7 @@
-package TicTacToe.Service;
+package TicTacToe.service;
 
-import TicTacToe.Model.Board;
-import TicTacToe.Model.Players;
+import TicTacToe.model.Board;
+import TicTacToe.model.Players;
 
 import java.util.Deque;
 import java.util.LinkedList;
